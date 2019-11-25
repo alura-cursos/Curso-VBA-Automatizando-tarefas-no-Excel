@@ -1,0 +1,10 @@
+Passo a passo
+
+Abrir o arquivo desejado
+Posicionar a celula no início
+Selecionar todas as informações
+Copiar as informações
+Fechar o arquivo
+Posicionar na celula desejada
+Colar as informações
+Clicar na celula a1
